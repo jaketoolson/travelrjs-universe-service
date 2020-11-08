@@ -1,2 +1,0 @@
-# travelrjs-client
-# travelrjs-server
