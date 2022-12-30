@@ -46,7 +46,7 @@
     "chai-as-promised": "^7.1.1",
     "faker": "^4.1.0",
     "file-loader": "1.1.6",
-    "mocha": "^7.2.0",
+    "mocha": "^10.2.0",
     "rimraf": "^3.0.2",
     "sequelize-cli": "^5.5.1",
     "shelljs": "^0.8.4",
